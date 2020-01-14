@@ -1,2 +1,2 @@
 # Guessing-Game
-Javascript practice for a guessing game
+Javascript practice with creation of a guessing game
